@@ -1,0 +1,11 @@
+{
+  "format": 1,
+  "ecran": {
+    "version": "3.2.8-dev",
+    "fichier": "ecran/grt_ecran_3.2.8-dev.bin",
+    "taille": 2145024,
+    "sha256": "f7b70410518ee4a972c56793ef37aa1f966d38143db07aab80cf46c7643cbdc9",
+    "date": "2026-11-10",
+    "notes": "Entrees gaz et frein, mise a jour par WiFi et par l'app"
+  }
+}
