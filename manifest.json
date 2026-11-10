@@ -3,9 +3,29 @@
   "ecran": {
     "version": "3.2.8-dev",
     "fichier": "ecran/grt_ecran_3.2.8-dev.bin",
-    "taille": 2145024,
-    "sha256": "f7b70410518ee4a972c56793ef37aa1f966d38143db07aab80cf46c7643cbdc9",
+    "taille": 2151840,
+    "sha256": "b1d0530bbfa52424d155313cdfb6412483baba9155913863de89aa56c10b71b0",
     "date": "2026-11-10",
-    "notes": "Entrees gaz et frein, mise a jour par WiFi et par l'app"
+    "notes": "Entrees gaz et frein, mise a jour de l'ecran et de la carte acquisition par l'app"
+  },
+  "acquisition": {
+    "acq": {
+      "version": "3.2.8-dev",
+      "fichier": "acquisition/grt_acq_3.2.8-dev.bin",
+      "taille": 378432,
+      "sha256": "c7f4b759587866a5207a08d935fdff888d3b1d4e40a0594d11c308f512b904b5"
+    },
+    "acq_pcb": {
+      "version": "3.2.8-dev",
+      "fichier": "acquisition/grt_acq_pcb_3.2.8-dev.bin",
+      "taille": 378432,
+      "sha256": "1b5897d86bfb14ba2836f0e9b34b71bee208951cf7f8f355e903d86a442b6673"
+    },
+    "acq_aio": {
+      "version": "3.2.8-dev",
+      "fichier": "acquisition/grt_acq_aio_3.2.8-dev.bin",
+      "taille": 378416,
+      "sha256": "9b14be6557e305397024f6e6e79b7bb841879df5833f8279e48dd8d07190709c"
+    }
   }
 }
