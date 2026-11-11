@@ -4,7 +4,7 @@
     "version": "3.2.8-dev",
     "fichier": "ecran/grt_ecran_3.2.8-dev.bin",
     "taille": 2154096,
-    "sha256": "6f3d00f01871be3222f863b2ca6278ecd8ff9a445eb98e2a8a8e6c2232450617",
+    "sha256": "bedb1df6c13f30201a5535ca6c5e2c4ec9117643099ba0c984e62bba541045d0",
     "date": "2026-11-11",
     "notes": "Mise a jour de l'ecran et de la carte acquisition par l'app (envoi par morceaux)"
   },
