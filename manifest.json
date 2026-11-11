@@ -1,31 +1,31 @@
 {
   "format": 1,
   "ecran": {
-    "version": "3.2.8-dev",
-    "fichier": "ecran/grt_ecran_3.2.8-dev.bin",
+    "version": "3.2.8",
+    "fichier": "ecran/grt_ecran_3.2.8.bin",
     "taille": 2154096,
-    "sha256": "bedb1df6c13f30201a5535ca6c5e2c4ec9117643099ba0c984e62bba541045d0",
+    "sha256": "746a3e55a868155d848c0d43d2ef770801e32a426c86611d3fac0a8f900c1aa9",
     "date": "2026-11-11",
-    "notes": "Mise a jour de l'ecran et de la carte acquisition par l'app (envoi par morceaux)"
+    "notes": "Mise a jour de l'ecran et de la carte acquisition par l'app en un seul bouton"
   },
   "acquisition": {
     "acq": {
-      "version": "3.2.8-dev",
-      "fichier": "acquisition/grt_acq_3.2.8-dev.bin",
+      "version": "3.2.8",
+      "fichier": "acquisition/grt_acq_3.2.8.bin",
       "taille": 378432,
-      "sha256": "c7f4b759587866a5207a08d935fdff888d3b1d4e40a0594d11c308f512b904b5"
+      "sha256": "5bb6c0281be09660a4af2123a6a5b6448516f7fe4a93e03523fab0f8fcab3b7d"
     },
     "acq_pcb": {
-      "version": "3.2.8-dev",
-      "fichier": "acquisition/grt_acq_pcb_3.2.8-dev.bin",
-      "taille": 378432,
-      "sha256": "1b5897d86bfb14ba2836f0e9b34b71bee208951cf7f8f355e903d86a442b6673"
+      "version": "3.2.8",
+      "fichier": "acquisition/grt_acq_pcb_3.2.8.bin",
+      "taille": 378416,
+      "sha256": "878d4e9da6f37f88991a9ef5ded92b0a84b4756ac40eb17df845a5c1f834f852"
     },
     "acq_aio": {
-      "version": "3.2.8-dev",
-      "fichier": "acquisition/grt_acq_aio_3.2.8-dev.bin",
-      "taille": 378416,
-      "sha256": "9b14be6557e305397024f6e6e79b7bb841879df5833f8279e48dd8d07190709c"
+      "version": "3.2.8",
+      "fichier": "acquisition/grt_acq_aio_3.2.8.bin",
+      "taille": 378432,
+      "sha256": "df8449421cbd6a4ab9bbaaadd8741b9181b3c12e470d841d807a2f69f7ac74b1"
     }
   }
 }
