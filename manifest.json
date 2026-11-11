@@ -3,10 +3,10 @@
   "ecran": {
     "version": "3.2.8-dev",
     "fichier": "ecran/grt_ecran_3.2.8-dev.bin",
-    "taille": 2151840,
-    "sha256": "b1d0530bbfa52424d155313cdfb6412483baba9155913863de89aa56c10b71b0",
-    "date": "2026-11-10",
-    "notes": "Entrees gaz et frein, mise a jour de l'ecran et de la carte acquisition par l'app"
+    "taille": 2154096,
+    "sha256": "6f3d00f01871be3222f863b2ca6278ecd8ff9a445eb98e2a8a8e6c2232450617",
+    "date": "2026-11-11",
+    "notes": "Mise a jour de l'ecran et de la carte acquisition par l'app (envoi par morceaux)"
   },
   "acquisition": {
     "acq": {
