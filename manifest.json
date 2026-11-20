@@ -1,31 +1,31 @@
 {
   "format": 1,
   "ecran": {
-    "version": "3.2.9",
-    "fichier": "ecran/grt_ecran_3.2.9.bin",
-    "taille": 2154096,
-    "sha256": "d7e7385cf2b86102b18f782765ae88e22f3d34ad3b247889f9e422139a316d13",
-    "date": "2026-11-16",
-    "notes": "Capteur de frein Bosch PSS-140 : etendue 140 bar"
+    "version": "3.2.10",
+    "fichier": "ecran/grt_ecran_3.2.10.bin",
+    "taille": 2157600,
+    "sha256": "bcb7cfb04ca53fc8b925370049a605ea893b54becab57f353edc199df6fd2845",
+    "date": "2026-11-20",
+    "notes": "Boite en mode AUTO : recalage en roulant apres un changement de pignon ou de couronne"
   },
   "acquisition": {
     "acq": {
-      "version": "3.2.9",
-      "fichier": "acquisition/grt_acq_3.2.9.bin",
+      "version": "3.2.10",
+      "fichier": "acquisition/grt_acq_3.2.10.bin",
       "taille": 378432,
-      "sha256": "4668b3ab93f8e3c5e4f66e62ea819436c592610d701385dd1cf3de68790aecbb"
+      "sha256": "edd520a4a33e311ff42ed41f3b6e3bd339ba65b66167037af872d68f3e24f121"
     },
     "acq_pcb": {
-      "version": "3.2.9",
-      "fichier": "acquisition/grt_acq_pcb_3.2.9.bin",
+      "version": "3.2.10",
+      "fichier": "acquisition/grt_acq_pcb_3.2.10.bin",
       "taille": 378416,
-      "sha256": "d380710e8a0cc4eea11e836f56f26ad4a193ae91936745b3e7af66f5332ac4c3"
+      "sha256": "4bec61ceb2833b96bc75cb0566f6a405c37045e7270a2095a79ad4b970c5f7ea"
     },
     "acq_aio": {
-      "version": "3.2.9",
-      "fichier": "acquisition/grt_acq_aio_3.2.9.bin",
+      "version": "3.2.10",
+      "fichier": "acquisition/grt_acq_aio_3.2.10.bin",
       "taille": 378432,
-      "sha256": "1e90ba395a1df430c4dc77a85974885cf69fe225d83d5cfb1b85f75d4d601f53"
+      "sha256": "031a185f3d9f382278bbebcc1a67aa36d404a8d0722ca0abf5c99c449a6c1e02"
     }
   }
 }
